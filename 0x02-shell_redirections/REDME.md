@@ -1,2 +1,2 @@
 #!/bin/bash
-shell redirections
+My first readme
